@@ -1,0 +1,133 @@
+body
+{
+    background-image: url("../img/ya_zahra1.jpg");
+    position: absolute;
+    left: 50%;
+    margin-left: -480px;
+}
+
+.header
+{
+   % height: 100px;
+    background: yellow;
+    padding: 2%;
+    border: cyan solid ;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+.main
+{
+ %   display: inline-flex;
+    float: left;
+    width: 670px;
+    padding: 10px;
+    border: cyan solid ;
+    border-radius: 20px;
+    margin-right: 10px;
+    background: #ff55ff;
+}
+
+.side
+{
+%    display: inline-flex;
+    float: right;
+    width: 250px;
+    padding: 10px;
+    border: cyan solid ;
+    border-radius: 20px;
+    margin-right: 10px;
+    background: #8274ff;
+}
+
+.post
+{
+    padding: 2% ;
+    margin: 2%;
+    border: solid blueviolet medium;
+%    height: 200px;
+}
+
+.header_post
+{
+    margin-top: 15px;
+    width: auto;
+    background: #ff5555;
+}
+.title
+{
+    padding: 1%;
+}
+
+a.on
+{
+    color: gold;
+}
+a.off
+{
+    color: #00ffbb;
+}
+
+.link
+{
+    color: #00ffbb;
+    text-decoration: none;
+}
+
+.post_img
+{
+    float: left;
+    margin-right: 20px;
+    width: 400px;
+    position: static;
+}
+
+#font1
+{
+    font-family: Tahoma;
+}
+#font2
+{
+    font-family: Times;
+}
+#font3
+{
+    font-family: fantasy;
+}
+#font4
+{
+    font-family: monospace;
+}
+#font_online_1
+{
+    font-family: Oswald ;
+}
+#font_online_2
+{
+    font-family: 'Slabo 27px', serif; ;
+}
+
+.input
+{
+    margin: 1%;
+}
+#form
+{
+    padding: 5%;
+    border: #60ff00 solid ;
+    border-radius: 20px;
+}
+
+.tab_1
+{
+    background-color: #77ff11;
+}
+.tab_2
+{
+    background-color: blue;
+}
+
+/*
+حذف خط طیر لینک
+     عکس در وسط تصویر
+سایت در وسط
+*/
